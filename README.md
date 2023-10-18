@@ -41,6 +41,11 @@ An experienced _Full Stack Software Engineer_ with more than 6+ years of experie
 [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://engrmuhammadusman108.medium.com/)
 [![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9180179/usman)
 
+<!-- PLATFORMS -->
+## Connect
+Check my latest article. If you are interested to read more blogs from me. Check all my blogs on Medium. 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@engrmuhammadusman108/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@engrmuhammadusman108/0" alt="Recent Article 0"> 
 
 
 <!-- GITHUB STATS -->
@@ -50,10 +55,14 @@ An experienced _Full Stack Software Engineer_ with more than 6+ years of experie
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-usman-108&theme=vue-dark&layout=compact" />
 </a>
 
+
+
 <!-- STACKOVERFLOW STATS -->
 [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=9180179)](https://github.com/kurt-liao/so-stats)
 
 <!-- LEETCODE STATS -->
 [![Leetcode Stats](https://leetcard.jacoblin.cool/engrmuhammadusman108)](https://leetcode.com/engrmuhammadusman108)
+
+
 
 
