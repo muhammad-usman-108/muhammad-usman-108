@@ -5,7 +5,7 @@
 <!-- PROFILE BADGES -->
 <div align="center">
 
-![Profile Count](https://komarev.com/ghpvc/?username=nabeel-shakeel&color=0e75b6&style=flat)
+![Profile Count](https://komarev.com/ghpvc/?username=muhammad-usman-108&color=0e75b6&style=flat)
 
 </div>
 
