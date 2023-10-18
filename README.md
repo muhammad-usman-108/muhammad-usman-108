@@ -53,3 +53,7 @@ An experienced _Full Stack Software Engineer_ with more than 6+ years of experie
 <!-- STACKOVERFLOW STATS -->
 [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=9180179)](https://github.com/kurt-liao/so-stats)
 
+<!-- LEETCODE STATS -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/engrmuhammadusman108)](https://leetcode.com/engrmuhammadusman108)
+
+
