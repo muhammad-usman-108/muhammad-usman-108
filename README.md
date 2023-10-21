@@ -1,5 +1,7 @@
+<img src='PictureBanner.jpeg'/>
+
 <!-- INTRODUCTION -->
-<h1 align="center">Hi there, I'm Usman 👋</h1>
+<h1 align="center">I'm Usman 👋</h1>
 <h3 align="center">Mid Level Software Engineer | React | Vue | Next | TypeScript | Java | Java Spring Boot | Python</h3>
 
 <!-- PROFILE BADGES -->
