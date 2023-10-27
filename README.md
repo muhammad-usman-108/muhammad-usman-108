@@ -1,4 +1,4 @@
-<img src='PictureBanner.jpeg'/>
+<img src='Picture_Banner.jpeg'/>
 
 <!-- INTRODUCTION -->
 <h1 align="center">I'm Usman 👋</h1>
