@@ -43,8 +43,11 @@ An experienced _Full Stack Software Engineer_ with more than 6+ years of experie
 [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://engrmuhammadusman108.medium.com/)
 [![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9180179/usman)
 
+## 🏆 GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=muhammad-usman-108&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- PLATFORMS -->
-## Connect
+## Medium
 Check my latest article. If you are interested to read more blogs from me. Check all my blogs on Medium. 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@engrmuhammadusman108/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@engrmuhammadusman108/0" alt="Recent Article 0"> 
@@ -52,6 +55,8 @@ Check my latest article. If you are interested to read more blogs from me. Check
 
 <!-- GITHUB STATS -->
 ## Stats
+### 🐥 Checkout My Github Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-usman-108&theme=dark&hide_border=false&card_width=1000)
 <a href="https://github.com/muhammad-usman-108">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammad-usman-108&show_icons=true&theme=vue-dark" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-usman-108&theme=vue-dark&layout=compact" />
