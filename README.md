@@ -16,7 +16,7 @@ An experienced _Full Stack Software Engineer_ with more than 6+ years of experie
 <!-- ABOUT ME -->
 ## About Me
 - 🌏 I'm currently based nearby Düsseldorf, NRW, Germany
-- 🔭 I’m currently working as a Mid Level Software Engineer at <a href="https://techwards.co](https://www.randstaddigital.de/willkommen/" target="blank">Randstad Digital Germany</a>
+- 🔭 I’m currently working as a Mid Level Software Engineer at <a href="https://www.randstaddigital.de/willkommen/" target="blank">Randstad Digital Germany</a>
 - 🏗️ Completed multiple web development projects for Telecommunication industry in Germany
 - 🌱 Currently AWS Cloud
 - 💬 Ask me about **React & Java**
@@ -42,6 +42,16 @@ An experienced _Full Stack Software Engineer_ with more than 6+ years of experie
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engrmuhammadusman108@gmail.com)
 [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://engrmuhammadusman108.medium.com/)
 [![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9180179/usman)
+
+## NPM Published Packages
+<a href="https://www.npmjs.com/package/medium-article-api" target="blank">medium-article-api</a> [![npm version](https://img.shields.io/npm/v/medium-article-api.svg)](https://www.npmjs.com/package/medium-article-api) [![npm downloads](https://img.shields.io/npm/dm/medium-article-api.svg)](https://www.npmjs.com/package/medium-article-api)
+
+<a href="https://www.npmjs.com/package/terraform-tool" target="blank">terraform-tool</a> [![npm version](https://img.shields.io/npm/v/terraform-tool.svg)](https://www.npmjs.com/package/terraform-tool) [![npm downloads](https://img.shields.io/npm/dm/terraform-tool.svg)](https://www.npmjs.com/package/terraform-tool)
+
+<a href="https://www.npmjs.com/package/ai21-sdk" target="blank">ai21-sdk</a> [![npm version](https://img.shields.io/npm/v/ai21-sdk.svg)](https://www.npmjs.com/package/ai21-sdk) [![npm downloads](https://img.shields.io/npm/dm/ai21-sdk.svg)](https://www.npmjs.com/package/ai21-sdk)
+
+## Python Published PyPi Library
+<a href="https://pypi.org/project/medium-article-py/" target="blank">medium-article-py</a> [![npm version](https://img.shields.io/pypi/v/medium-article-py.svg)](https://www.pypi.org/project/medium-article-py) [![npm downloads](https://img.shields.io/pypi/dm/medium-article-py.svg)](https://pypi.org/project/medium-article-py/)
 
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=muhammad-usman-108&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
