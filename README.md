@@ -17,7 +17,7 @@ An experienced _Full Stack Software Engineer_ with more than 6+ years of experie
 ## About Me
 - 🌏 I'm currently based nearby Düsseldorf, NRW, Germany
 - 🔭 I’m currently working as a Mid Level Software Engineer at <a href="https://www.randstaddigital.de/willkommen/" target="blank">Randstad Digital Germany</a>
-- 🏗️ Completed multiple web development projects for Telecommunication industry in Germany
+- 🏗️ Completed multiple web development projects for Telecommunication, FinTech, Cloud Security & Automobile industries in Germany.
 - 🌱 Currently AWS Cloud
 - 💬 Ask me about **React & Java**
 - 📫 How to reach me **umuhammad202@yahoo.com**
